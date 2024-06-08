@@ -1,0 +1,8 @@
+Project \
+        index.html
+        footer-image.jpg
+        DeveloperReview.dat
+        bundle.js
+        Packaged \   
+                  init.bat
+    
